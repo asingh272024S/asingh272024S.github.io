@@ -1,1 +1,4 @@
 site_name: My Docs
+site_url: https://asingh272024s.github.io/
+theme:
+  name: material
