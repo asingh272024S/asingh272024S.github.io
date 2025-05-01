@@ -258,7 +258,7 @@ If you frequently eat on campus, Dining Dollars offer better value due to the di
 
 
 ## Checksheets
-Checksheets allow you to determine what courses you need to take to complete your degree. It provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
+Checksheets allow you to determine what courses you need to take to complete your degree. The Checksheets page provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
 
 Visit the Registrar's [Checksheets page](https://www.registrar.vt.edu/graduation-multi-brief/checksheets.html) to access the different checksheets available in Virginia Tech.
 
