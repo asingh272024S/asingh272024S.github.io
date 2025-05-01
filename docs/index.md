@@ -4,13 +4,13 @@
 > "If it aint broke, don't fix it" - Random Reddit User When Asked about HokieSpa
 
 
-> This guide does not cover all of HokieSPA, instead this guide will cover the most common use cases during a student's tenure at Virginia Tech. 
+ 
 
 **By: Hannah Baum, Nandita Prasanth, Aditya Singh**
 
 # Student Guide to HokieSPA
 
-HokieSPA contains important information relevant to students enrolled in Virginia Tech. It allows you to access your courses, view your grades and plan your semesters. However, HokieSPA is not easy to navigate. It contains a lot of information organized in an unnecessarily complicated manner. Our user guide aims to rectify this problem by providing a detailed but concise guide to the intricacies of HokieSPA.
+HokieSPA contains important information relevant to students enrolled in Virginia Tech. It allows you to access your courses, view your grades and plan your semesters. However, HokieSPA is not easy to navigate. It contains a lot of information organized in an complicated manner. Our user guide aims to rectify this problem by providing a detailed but concise guide to the intricacies of HokieSPA. This guide does not cover all of HokieSPA, instead this guide will cover the most common use cases during a student's tenure at Virginia Tech.
 
 ![image](https://hackmd.io/_uploads/BkfrSV7C1e.png)
 
@@ -27,7 +27,7 @@ HokieSPA contains important information relevant to students enrolled in Virgini
 Navigate allows you to schedule a meeting with your academic advisor by using a site called Navigate. Academic advisors assist students with their time in college and provide them with the most efficient ways to complete their degree. HokieSPA provides a link to Navigate on its home page. 
 
 ### How to schedule an appointment with your advisor
-Upon clicking the link to Navigate on HokieSPA (the 6th link from the top), you should see your account on Navigate. On the left side panel, click on the tab labeled "Appointments". Your screen should look like this:
+Upon clicking the link to Navigate on HokieSPA (the 6th link from the top), you should see your account on Navigate. On the left side panel, click on the tab labeled "Appointments". Your screen should look like the image below:
 
 ![image](https://hackmd.io/_uploads/ryZimgXTyg.png)
 
@@ -41,13 +41,13 @@ On this page, you can find your appointment summaries by clicking the button.
 
 
 ## Degree Audit Reporting System
-The Degree Audit Reporting System (DARS) is a system that allows students to understand their progress towards their degree. It allows users to track their progress by describing the classes they have taken, their GPAs and classes they need to take to get their degree.
+A Degree Audit Report provides a detailed report of a student's progress towards their degree. The Degree Audit Reporting System (DARS) is a system that allows students to understand their progress towards their degree. It allows users to track their progress by describing the classes they have taken, their GPAs and classes they need to take to get their degree. The system will generate a personalized audit based on your major and academic records, giving you an overview of your progress toward graduation.
 
 ### Running Your DARS Audit
 Under the "Hokie SPA" tab, select "DARS and Hokie GPS - Graduation Plan for Success." This will bring you to a new page where you can access your degree audit.
 ![Screenshot 2025-03-27 112448dars](https://hackmd.io/_uploads/rk6LAkXpkx.png)
 
-Once there, click the maroon "Run Audit" button. The system will generate a personalized audit based on your major and academic records, giving you an overview of your progress toward graduation.
+Once there, click the maroon "Run Audit" button. 
 
 ![Screenshot 2025-03-25 114334](https://hackmd.io/_uploads/rkcVyLlTkl.png)
 
@@ -81,7 +81,7 @@ In addition to your progress, this section displays your major GPA and overall u
 
 ![checklistdars](https://hackmd.io/_uploads/H1yoMgm61e.png)
 
-The checklist is a more detailed breakdown of your degree requirements, helping you track what you've completed and what still needs to be done:
+The checklist provides a more detailed breakdown of your degree requirements, helping you track what you've completed and what still needs to be done:
 
 * Green checkmark: Completed requirements. No further action is needed.
 * Blue box with "...": Courses in progress. These will be marked as complete once you successfully finish the semester.
@@ -94,7 +94,7 @@ Clicking on a red box reveals additional details, such as:
 
 ![expanded checklist](https://hackmd.io/_uploads/BkJGXxX61e.png)
 
-### Request an Audit
+### Request a What-If Audit
 If you are considering changing majors, adding a minor, or simply exploring other academic options, DARS allows you to generate a "What-If" audit. This tool lets you see how your completed courses would count toward a different program’s requirements. 
 
 To do this:
@@ -111,7 +111,7 @@ To do this:
 
 ![Run Different Program](https://hackmd.io/_uploads/SkJvvRMCyg.png)
 
-6. Hit "Run Different Program" and then select the "what if" audit in the updated list of audits.
+5. Click "Run Different Program" and then select the "what if" audit in the updated list of audits.
 
 ![what if](https://hackmd.io/_uploads/B1d3_RzA1l.png)
 
@@ -258,7 +258,7 @@ If you frequently eat on campus, Dining Dollars offer better value due to the di
 
 
 ## Checksheets
-Checksheets allow you to determine what courses you need to take to complete your degree. It provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
+Checksheets allow you to determine what courses you need to take to complete your degree. The Checksheets page provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
 
 Visit the Registrar's [Checksheets page](https://www.registrar.vt.edu/graduation-multi-brief/checksheets.html) to access the different checksheets available in Virginia Tech.
 
