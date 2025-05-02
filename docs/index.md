@@ -119,26 +119,19 @@ To do this:
 This tool is especially useful if you're considering a double major or switching fields. It allows you to compare different paths and determine the best course of action for your academic journey.
 
 ## Course Registration 
-Course Registration is a feature you will encounter many times during your tenure at Virginia Tech. Here you can view, add, and drop courses to your schedule. You can also view your schedule as a whole. The link titled "Course Registration and Schedule Menu" will get you to this menu.
+Course Registration is a feature you will encounter many times during your tenure at Virginia Tech. Here you can view, add, and drop courses to your schedule. You can also view your schedule as a whole. The link titled "Course Registration and Schedule Menu" will take you to this menu.
 
 ![Screenshot 2025-03-25 113600](https://hackmd.io/_uploads/rJ7uTSxTJl.png)
 
-The image above is what you should see once you click on the a
-
-
-
-
-
-
-formentioned link. We will look at the most important links below. 
+The image above reflects what you should see once you click on the aforementioned link. We will look at the most important links below.
 
 ### Timetable of Classes
-
-Timetable is an incredibly powerful tool. Despite the outdated GUI, the timetable of classes will show you:
-* All available class sections for a specific class during a semester.
+Timetable is an incredibly powerful tool. Despite the outdated Graphical User Interface (GUI), the timetable of classes will show you:
+* All available class sections for a specific class during a semester
 * Class requirements and prerequisites
 * Location, meeting times, exam times, credit hours
-* All items above stand to be searchable by Term, Pathways, Subject, Course Number, Course Request Number (CRN), and Course Modality
+  
+You can search the above by Term, Pathways, Subject, Course Number, Course Request Number (CRN), and Course Modality.
 
 ![image](https://hackmd.io/_uploads/B1_oCymaJx.png)
 
@@ -154,27 +147,28 @@ After making your selections, you will see a vast list of courses with all the i
 
 ![image](https://hackmd.io/_uploads/Syw_geXaJe.png)
 
-Course request stands to be another very powerful tool in the VT database. Use Course Request prior to the opening of Add/Drop to place into courses. The process is fairly simple, just add the CRNs of each class(can be found in timetable), and click "Add CRNs". 
+Course request is another very powerful tool in the VT database. Use Course Request prior to the opening of Add/Drop to place into courses. The process is fairly simple, just add the CRNs of each class (can be found in timetable), and click "Add CRNs".
 
-Once you are done adding courses, click the "submit" button to send over your course request to the University. 
+Once you are done adding courses, click the "submit" button to send over your course request to the Registrar’s Office. 
 
 ### Registration (Add/Drop)
 
 ![image](https://hackmd.io/_uploads/SkYbfgmakg.png)
 
-Registration (Add/Drop) is where you will be adding classes for the rest of your tenure at Virginia Tech. 
+Registration (Add/Drop) is where you will add or drop classes at the end of Course Request.
+* Prepare for Registration: This is where you look at holds (and how to get rid of them), as well as tasks to complete before you are allowed to register for classes.
+* Browse Classes: Less detailed version of Timetable, where you can only see one course at a time and must have the CRN beforehand.
+* Browse Course Catalog: Same as the function "Browse Classes", but provides more details about a specific course.
+* Add/Drop-Register for Classes: The bread and butter of your college career. Here you can see all the courses you are registered for. More importantly, the Add/Drop feature will allow you to add and drop courses as you see fit.
 
-* **Prepare for Registration**: This is where you look at holds(and how to get rid of them), as well as tasks to complete before you are allowed to register for classes. 
-* **Browse Classes**: Less detailed version of Timetable, where you can only see one course at a time and must have the CRN before hand. 
-* **Browse Course Catalog**: Same as the function "Browse Classes", instead you are provided more details about a specific course. 
-* **Add/Drop-Register for Classes**: The bread and butter of your college career. Here you can see all the courses you are registered for. More importantly, the Add/Drop feature will allow you to add and drop courses as you see fit.
 ![image](https://hackmd.io/_uploads/SkWg3_X6kx.png)
-Just enter the search criteria and add the course. You will then see the course in summary and will need to click the "Submit" button on the bottom right to confirm the classes. Tired of a course? You can also drop courses in the same menu by selecting the action drop down in "Summary":
+
+Just enter the search criteria and add the course. You will then see the course in summary and will need to click the "Submit" button on the bottom right to confirm the classes. You can also drop courses in the same menu by selecting the action drop down in "Summary":
+
 ![image](https://hackmd.io/_uploads/B10B3dmT1l.png)
 Then select "Drop Web" and submit.
 
 * **View Registration Information**: Here you can see your schedule, class information, and credit information for the current and previous semester. 
-
 
 ## Hokie Passport Services
 Hokie Passport Services provides a convenient way for students to manage their campus-related expenses. With this service, you can:
@@ -185,7 +179,7 @@ Hokie Passport Services provides a convenient way for students to manage their c
 
 Before using Hokie Passport Services, it’s essential to understand the difference between Hokie Passport funds and Dining Dollars:
 
-* **Dining Dollars** can only be used for on-campus dining locations. However, when you pay with Dining Dollars, you receive a percentage discount on food purchases.
+* **Dining Dollars** can only be used for on-campus dining locations. However, when you pay with Dining Dollars, you receive a [percentage discount](https://dining.vt.edu/content/dining_vt_edu/en/about/Dining_Services_at_a_Glance/_jcr_content/content/vtmulticolumn_1257757695/vt-items_2/vtcontainer_copy/vtcontainer-content/vtmultitab_1600716354/vt-items_0/download_1239597512/file.res/Dining%20Plans%202022.pdf) on food purchases based on which meal plan you have.
 * **Hokie Passport** funds are more versatile and can be used for various campus services, including vending machines, laundry facilities, dining locations (at full price), library printing, and select off-campus restaurants that accept Hokie Passport payments.
 
 Having both accounts helps you balance convenience and savings while managing your campus expenses efficiently.
@@ -232,7 +226,7 @@ To view your spending history:
     * The amount spent.
     * The remaining balance after each transaction.
 
-This feature is particularly useful if you want to track your spending habits, budget your Dining Dollars for the semester, or identify any unexpected charges.
+The Account Balance and Transactions feature is particularly useful if you want to track your spending habits, budget your Dining Dollars for the semester, or identify any unexpected charges.
 
 ### Make a Deposit
 If you run low on funds, adding money to your Hokie Passport or Dining Dollars account is quick and easy.
@@ -254,11 +248,11 @@ Understanding where and how you can use your funds helps maximize their benefits
     * Library printing services.
     * Select off-campus restaurants that accept Hokie Passport payments.
 
-If you frequently eat on campus, Dining Dollars offer better value due to the discount. However, Hokie Passport funds provide more flexibility for non-dining expenses..
+If you frequently eat on campus, Dining Dollars offer better value due to the discount. However, Hokie Passport funds provide more flexibility for non-dining expenses.
 
 
 ## Checksheets
-Checksheets allow you to determine what courses you need to take to complete your degree. It provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
+Checksheets allow you to determine what courses you need to take to complete your degree. The Checksheets page provides a cohesive list of the classes that are to be taken in each semester to get your degree. 
 
 Visit the Registrar's [Checksheets page](https://www.registrar.vt.edu/graduation-multi-brief/checksheets.html) to access the different checksheets available in Virginia Tech.
 
@@ -268,6 +262,7 @@ Every major and minor has a checksheet dedicated to it. To use checksheets effec
 ![Screenshot 2025-03-27 113440](https://hackmd.io/_uploads/ryjFgxm61e.png)
 
 Click on the tab titled Checksheets and choose whether you would like to find your checksheet from an alphabetically ordered list, a list sorted by colleges or a list sorted by minors.
+
 ![image](https://hackmd.io/_uploads/HkaGZxQ6kl.png)
 
 Find the major or minor you would like to access the checksheet of and click on the year you entered Virginia Tech.
@@ -281,7 +276,7 @@ The second page of the file, provides a comprehensive guide to understanding eac
 
 
 ## Student Organizations 
-At the very bottom of HokieSPA, you have the lesser known "Student Orginzations". If you are in Greek Life or the founder of a club, look no further, here you can view sorority and fraternity actions among other useful club actions.
+At the very bottom of HokieSPA, you have the lesser known "Student Organizations". If you are in Greek Life or the founder of a club, look no further; here you can view sorority and fraternity actions among other useful club actions.
 
 ![image](https://hackmd.io/_uploads/S1_LMIxpyl.png)
 
@@ -298,7 +293,7 @@ Navigating HokieSPA can feel overwhelming at first, but with this guide, the sof
 
 Whether you're just starting at Virginia Tech or are on the cusp of graduation, using HokieSPA effectively will save you time, money, and unnecessary stress throughout your college tenure.
 
-If you ever get stuck or confused, always reach out to your academic advisor. Virginia Tech fosters a community of support, make sure to utilize it!
+If you ever get stuck or confused, always reach out to your academic advisor. Virginia Tech fosters a community of support; make sure to utilize it!
 
 **:link: Useful Links for Further Information:** 
 
