@@ -1,4 +1,19 @@
-site_name: My Docs
+site_name: Student Guide to HokieSPA
 site_url: https://asingh272024s.github.io/site
 theme:
   name: material
+  logo: images/vtlogo3.png
+  palette:
+    scheme: default     
+    primary: blue grey     
+    accent: blue grey  
+
+nav:
+  - Introduction: index.md
+  - Using Navigate: using-navigate.md
+  - Degree Audit: degree-audit.md
+  - Course Registration: course-registration.md
+  - Hokie Passport: hokie-passport.md
+  - Checksheets: checksheets.md
+  - Student Organizations: student-organizations.md
+  - Conclusion: conclusion.md
