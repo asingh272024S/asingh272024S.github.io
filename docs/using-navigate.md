@@ -1,7 +1,9 @@
 ## Using Navigate 
-Navigate allows you to schedule a meeting with your academic advisor by using a site called Navigate. Academic advisors assist students with their time in college and provide them with the most efficient ways to complete their degree. HokieSPA provides a link to Navigate on the home page. 
+
+Navigate allows you to schedule a meeting with your academic advisor. Academic advisors assist students with their time in college and provide them with the most efficient ways to complete their degree. HokieSPA provides a link to Navigate on the home page.
 
 ### How to schedule an appointment with your advisor
+
 Upon clicking the link to Navigate on HokieSPA (the 6th link from the top), you should see your account on Navigate. On the left side panel, click on the tab labeled "Appointments". Your screen should look like the image below:
 
 ![image](https://hackmd.io/_uploads/ryZimgXTyg.png)
