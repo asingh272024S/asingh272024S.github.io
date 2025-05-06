@@ -21,7 +21,7 @@ To access Hokie Passport Services:
 
 ![hokiewallet](https://hackmd.io/_uploads/ryD9OFKakx.png)
 
-*Figure 21: Hokie Passport Services link.*
+*Hokie Passport Services link.*
 
 This button will take you to the Hokie Passport Services homepage.
 
@@ -34,7 +34,7 @@ At the top of this page, a banner provides quick links to important resources, i
 
 ![hokiepass](https://hackmd.io/_uploads/rJ6ms6uTke.png)
 
-*Figure 22: Screenshot of Hokie Passport menu.*
+*Screenshot of Hokie Passport menu.*
 
 Below the banner, you’ll find buttons that allow you to check balances, view transaction history, and add money to your Hokie Passport and Dining Dollars accounts.
 
@@ -43,7 +43,7 @@ Tracking your spending matters, and Hokie Passport Services provides an easy way
 
 ![transactions](https://hackmd.io/_uploads/ryvlAKYpyg.png)
 
-*Figure 23: View of account balance page.*
+*View of account balance page.*
 
 To check your current balances:
 

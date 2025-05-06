@@ -8,6 +8,9 @@ theme:
     primary: blue grey     
     accent: blue grey  
 
+markdown_extensions:
+  - admonition
+
 nav:
   - Introduction: index.md
   - Using Navigate: using-navigate.md

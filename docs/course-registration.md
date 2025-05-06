@@ -3,7 +3,7 @@ You will encounter Course Registration frequently throughout your time at Virgin
 
 ![Screenshot 2025-03-25 113600](https://hackmd.io/_uploads/rJ7uTSxTJl.png)
 
-*Figure 15: Screenshot of Course Registration menu.*
+*Screenshot of Course Registration menu.*
 
 The image above reflects what you should see once you click on the aforementioned link. We will look at the most important links below.
 
@@ -18,7 +18,7 @@ You can search the above by Term, Pathways, Subject, Course Number, Course Reque
 
 ![image](https://hackmd.io/_uploads/B1_oCymaJx.png)
 
-*Figure 16: Screenshot of timetable menu.*
+*Screenshot of timetable menu.*
 
 * Campus: Select the campus location of the class 
 * Subject: Choose from all subjects offered at that campus 
@@ -32,7 +32,7 @@ After making your selections, you will see a vast list of courses with all the i
 
 ![image](https://hackmd.io/_uploads/Syw_geXaJe.png)
 
-*Figure 17: Screenshot of course request menu.*
+*Screenshot of course request menu.*
 
 Course request serves as a another very powerful tool in the VT database. Use Course Request prior to the opening of Add/Drop to place into courses. The process is fairly simple, just add the CRNs of each class (can be found in timetable), and click "Add CRNs".
 
@@ -42,7 +42,7 @@ Once you are done adding courses, click the "submit" button to send over your co
 
 ![image](https://hackmd.io/_uploads/SkYbfgmakg.png)
 
-*Figure 18: Screenshot of Add/Drop menu.*
+*Screenshot of Add/Drop menu.*
 
 Registration (Add/Drop) allows you to add or drop classes once the Course Request period as ended.
 
@@ -53,13 +53,13 @@ Registration (Add/Drop) allows you to add or drop classes once the Course Reques
 
 ![image](https://hackmd.io/_uploads/SkWg3_X6kx.png)
 
-*Figure 19: Search criteria menu.*
+*Search criteria menu.*
 
 Just enter the search criteria and add the course. You will then see the course in summary and will need to click the "Submit" button on the bottom right to confirm the classes. You can also drop courses in the same menu by selecting the action drop down in "Summary":
 
 ![image](https://hackmd.io/_uploads/B10B3dmT1l.png)
 
-*Figure 20: Action menu for registering or dropping a class.*
+*Action menu for registering or dropping a class.*
 
 
 Then select "Drop Web" and submit.

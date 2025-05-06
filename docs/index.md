@@ -13,7 +13,7 @@
 HokieSPA contains important information relevant to students enrolled in Virginia Tech. The system allows you to access your courses, view your grades and plan your semesters. However, HokieSPA can be difficult to to navigate. The service contains a lot of information organized in an complicated manner. Our user guide aims to rectify this problem by providing a detailed but concise guide to the intricacies of HokieSPA. This guide does not cover all of HokieSPA, instead this guide will cover the most common use cases during a student's tenure at Virginia Tech.
 
 ![HokieSPA homepage screenshot showing navigation men](https://hackmd.io/_uploads/BkfrSV7C1e.png)
-*Figure 1: HokieSPA homepage screenshot showing navigation menu.*
+*HokieSPA homepage screenshot showing navigation menu.*
 
 ## Table of Contents 
 * [Using Navigate](using-navigate.md)

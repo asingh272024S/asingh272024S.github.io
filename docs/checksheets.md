@@ -10,13 +10,13 @@ Every major and minor has a dedicated checksheet. To use checksheets effectively
 
 ![Screenshot 2025-03-27 113440](https://hackmd.io/_uploads/ryjFgxm61e.png)
 
-*Figure 24: VT website page for checksheets.*
+*VT website page for checksheets.*
 
 Click on the tab titled Checksheets and choose whether you would like to find your checksheet from an alphabetically ordered list, a list sorted by colleges or a list sorted by minors.
 
 ![image](https://hackmd.io/_uploads/HkaGZxQ6kl.png)
 
-*Figure 25: Screenshot showing links to various major checksheets.*
+*Screenshot showing links to various major checksheets.*
 
 Find the major or minor you would like to access the checksheet of and click on the year you entered Virginia Tech.
 
@@ -25,6 +25,11 @@ Find the major or minor you would like to access the checksheet of and click on 
 The link to your desired checksheet will direct you to a file consisting of the courses you need to take. You will notice that this list has several subscripts and superscripts that need explaining.
 The second page of the file, provides a comprehensive guide to understanding each symbol. This page also contains additional information about courses you need to take.
 
+!!! tip
+
+    If you do not see a specific course you need, reach out to your academic advisor to suggest an alternative.
+
+
 ![image](https://hackmd.io/_uploads/rJnqfl7Tye.png)
 
-*Figure 26: Screenshot of a traditional checksheet.*
+*Screenshot of a traditional checksheet.*
